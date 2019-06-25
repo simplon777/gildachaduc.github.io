@@ -2,8 +2,9 @@ h1
  { color:#FF0000 }
  h1
  {text-align: center}
+
  h1
- {font-size: 40px}
+ {font-size: 70px}
  h1
  {box-shadow: 6px 6px 0px black;}
  h1
@@ -27,8 +28,13 @@ h1
 H1
 {height: 150px}
 blockquote
-{height: 150px}
-
+{height: 140px}
+blockquote
+{background-color: #D3D3D3}
+blockquote
+{box-shadow: 6px 6px 0px black;}
+blockquote
+{box-shadow:  6px 6px 6px black;}
 
 h2
 {height: 160px}
@@ -53,8 +59,4 @@ h3
 p
 {float:left;
 width: 70%;
-margin: 0;}
-image
-{float: right;
-width:30%;
 margin: 0;}
